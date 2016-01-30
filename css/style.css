@@ -1,4 +1,4 @@
-body{
+body {
 	background-color: #efeee7;
 	font-style: "Georgia";
 	color: #333333;
@@ -6,11 +6,11 @@ body{
 	padding: 0;
 }
 
-header{
+header {
 	background-color: #d21034;
 }
 
-h1{
+h1 {
 	background-color: #333333;
 	color: #ffffff;
 	font-size: 28px;
@@ -18,24 +18,26 @@ h1{
 	height: 60px;
 }
 
-h2{
+h2 {
 	font-size: 24px
 }
 
-.container{
+.container {
 	width: 1024px;
 	margin: 0 auto;
 }
 
-#main-bio{
+#main-bio {
 	float: left;
 	width: 70%;
 	margin: ;
 }
-#contact-info{
+
+#contact-info {
 	float: left;
 }
-#bio-image{
+
+#bio-image {
 	float: left;
 	width: 200px;
 	margin-right: 10px;
